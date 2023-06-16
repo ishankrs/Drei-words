@@ -53,10 +53,7 @@ You can find more details about the specific versions of these dependencies in t
 
 
 ##Screenshots 
-![Simulator Screenshot - iPhone 14 Pro - 2023-06-16 at 18 09 33](https://github.com/ishankrs/Drei-words/assets/78429831/2044b1d7-5265-47de-90b8-4020675c0364)
-![Simulator Screenshot - iPhone 14 Pro - 2023-06-16 at 18 09 05](https://github.com/ishankrs/Drei-words/assets/78429831/87d6a871-a5ed-4395-9440-706724179781)
-![Simulator Screenshot - iPhone 14 Pro - 2023-06-16 at 18 08 58](https://github.com/ishankrs/Drei-words/assets/78429831/ead017e0-6189-4d93-b881-e077e2c8a141)
-![Simulator Screenshot - iPhone 14 Pro - 2023-06-16 at 07 30 51](https://github.com/ishankrs/Drei-words/assets/78429831/7675e6f2-88c1-4044-bf8e-933024761539)
+![githubss](https://github.com/ishankrs/Drei-words/assets/78429831/282143f0-6392-473f-ab2d-48a5178d5d08)
 
 
 ## License
